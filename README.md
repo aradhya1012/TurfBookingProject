@@ -15,17 +15,6 @@
 - 🔍 **Search & Filter** – Find turfs by name, city, or availability  
 - 💬 **Contact Form** – For user inquiries and feedback  
 
-## 🖼️ Screens (Preview)
-
-| Home | Turf List | Booking Page |
-|------|------------|--------------|
-| ![Home](https://via.placeholder.com/300x600?text=Home+Screen) | ![Turf List](https://via.placeholder.com/300x600?text=Turf+List) | ![Booking](https://via.placeholder.com/300x600?text=Booking+Page) |
-
-| Login | Admin Dashboard | Profile |
-|--------|----------------|----------|
-| ![Login](https://via.placeholder.com/300x600?text=Login+Screen) | ![Admin](https://via.placeholder.com/300x600?text=Admin+Dashboard) | ![Profile](https://via.placeholder.com/300x600?text=User+Profile) |
-
-> *(You can replace these placeholder images with real screenshots from your project.)*
 
 ## ⚙️ Tech Stack
 
