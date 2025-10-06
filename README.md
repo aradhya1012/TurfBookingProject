@@ -37,7 +37,7 @@
 ## 🚀 Installation & Setup
 
 # 1️⃣ Clone the repository
-https://github.com/aradhya1012/turf-booking-website.git
+  https://github.com/aradhya1012/TurfBookingProject
 
 # 2️⃣ Navigate to the project directory
 cd turf-booking-website
