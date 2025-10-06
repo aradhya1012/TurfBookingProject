@@ -8,10 +8,9 @@
 
 ## 📌 Features
 
-- 🏟️ **Turf Listings** – View available turfs with location and images  
+- 🏟️ **Turf Listings** – View available turfs with location and price  
 - 🗓️ **Booking System** – Select preferred date, time slot, and confirm instantly  
-- 👤 **User Authentication** – Secure login and registration for players and owners  
-- 💳 **Payment Gateway (Demo)** – Mock payment integration for booking confirmation  
+- 👤 **User Authentication** – Secure login and registration for players and owners   
 - ⚙️ **Admin Dashboard** – Turf owners can manage bookings, prices, and availability  
 - 🔍 **Search & Filter** – Find turfs by name, city, or availability  
 - 💬 **Contact Form** – For user inquiries and feedback  
@@ -30,18 +29,15 @@
 
 ## ⚙️ Tech Stack
 
-| Layer | Technology Used |
-|--------|----------------|
 | 🎨 **Frontend** | HTML, CSS, JavaScript, AngularJS |
 | 💻 **Backend** | Java |
 | 🗄️ **Database** | SQLite |
-| 🌐 **Hosting (Optional)** | GitHub Pages / Render / Localhost |
 
 
 ## 🚀 Installation & Setup
 
 # 1️⃣ Clone the repository
-git clone https://github.com/your-username/turf-booking-website.git
+https://github.com/aradhya1012/turf-booking-website.git
 
 # 2️⃣ Navigate to the project directory
 cd turf-booking-website
